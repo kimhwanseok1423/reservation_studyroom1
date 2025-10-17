@@ -1,0 +1,28 @@
+.today {
+  background-color: #FFD700 !important;
+  border-radius: 50% !important;
+}
+
+.selected {
+  background-color: #8B63FF !important;
+  border-radius: 50% !important;
+  color: white !important;
+}
+
+.btn-yellow {
+  background-color: #FFD700;
+  color: #000;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.btn-purple {
+  background-color: #8B63FF;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
